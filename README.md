@@ -28,3 +28,7 @@ This script will control the rotation of a servo motor, which will in of itself 
  * **Display**
     - **SCK:** A4
     - **SDA** A5
+## Demonstration
+
+https://github.com/user-attachments/assets/24835165-2d93-40bb-9782-433eb4b1d155
+
