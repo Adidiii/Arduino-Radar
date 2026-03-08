@@ -32,3 +32,4 @@ This script will control the rotation of a servo motor, which will in of itself 
 
 https://github.com/user-attachments/assets/24835165-2d93-40bb-9782-433eb4b1d155
 
+The blue line's length symbolise the distance of the object: longer lines mean a further object. When an object is scanned over, yellow text in the corner of the screen displays the precise distance of said object.
